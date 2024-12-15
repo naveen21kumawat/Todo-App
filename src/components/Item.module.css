@@ -1,0 +1,7 @@
+.ItemContainer{
+    padding: 4pxpx;
+    background-color: rgb(214, 191, 214);
+    border: 2px solid rgb(43, 36, 36);
+    margin: 10px 0;
+    font-weight: bold;
+}

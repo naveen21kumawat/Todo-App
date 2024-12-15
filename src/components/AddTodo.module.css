@@ -1,0 +1,16 @@
+input{
+    width: 100%;
+    /* text-align: left; */
+    height: 100%;
+   
+}
+.AddTodoStyle{
+    background-color: rgb(225, 222, 218);
+    text-align: left;
+    border: 2px solid rgb(42, 48, 42);
+    padding: 10px;
+    
+}
+.buttonStyle{
+    width: 100px;
+}
